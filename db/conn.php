@@ -3,7 +3,7 @@
 	$host = 'localhost';
 	$db = 'attendance_db';
 	$username = 'root';
-	$password = 'Wisdom!0';
+	$password = 'Wisdom';
 	$charset = 'utf8mb4';
 	$dsn = "mysql:host=$host;database=$db;charset=$charset";
 	try {
